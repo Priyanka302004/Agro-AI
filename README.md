@@ -51,12 +51,6 @@ Uses a Convolutional Neural Network (CNN) to detect plant diseases from input da
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here — login, dashboard, prediction results)
-
----
-
 ## 🚀 Future Improvements
 
 - Improve model accuracy with larger datasets  
